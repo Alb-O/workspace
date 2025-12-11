@@ -1,0 +1,3 @@
+[submodule "openmodules"]
+	path = openmodules
+	url = https://github.com/Alb-O/openskills
