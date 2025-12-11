@@ -1,3 +1,6 @@
 [submodule "openmodules"]
 	path = openmodules
-	url = https://github.com/Alb-O/openskills
+	url = https://github.com/Alb-O/openmodules
+[submodule "impire"]
+	path = impire
+	url = https://github.com/Alb-O/impire
