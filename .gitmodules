@@ -4,3 +4,6 @@
 [submodule "impire"]
 	path = impire
 	url = https://github.com/Alb-O/impire
+[submodule "imp.dev"]
+	path = imp.dev
+	url = https://github.com/imp-nix/imp.dev
