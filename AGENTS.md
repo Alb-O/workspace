@@ -1,1 +1,5 @@
-Use `cd <project> && nix develop` or `nix shell` when using bash (get the project's nix environment)
+- Use `cd <project> && nix develop` or `nix shell` when using bash (get the project's nix environment)
+- If needing a temp directory for quick tests/outputs, use the `tmp/` dir in the *workspace root*, NOT the machine `/` root.
+- Never add deprecation/legacy/backwards compatibility. Just make the new, breaking change up front.
+- AVOID trivial one-line comments that just re-explain snippets of code.
+- After introducing something *new*, ALWAYS validate and test using code/bash. Never assume.

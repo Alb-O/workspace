@@ -7,3 +7,18 @@
 [submodule "imp.dev"]
 	path = imp.dev
 	url = https://github.com/imp-nix/imp.dev
+[submodule "pw-rs"]
+	path = pw-rs
+	url = https://github.com/Alb-O/pw-rs
+[submodule "opencode"]
+	path = opencode
+	url = https://github.com/sst/opencode
+[submodule "opentui"]
+	path = opentui
+	url = https://github.com/sst/opentui
+[submodule "opencodium"]
+	path = opencodium
+	url = https://github.com/Alb-O/opencodium
+[submodule "helium-browser-flake"]
+	path = helium-browser-flake
+	url = https://github.com/Alb-O/helium-browser-flake
