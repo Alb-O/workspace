@@ -1,5 +1,6 @@
-- Use `cd <project> && nix develop` or `nix shell` when using bash (get the project's nix environment)
+- Use `cd <project> && nix develop -c` or `nix shell nixpkgs#<pkg> -c` when using bash (get the project's nix environment)
 - If needing a temp directory for quick tests/outputs, use the `tmp/` dir in the *workspace root*, NOT the machine `/` root.
 - Never add deprecation/legacy/backwards compatibility. Just make the new, breaking change up front.
 - AVOID trivial one-line comments that just re-explain snippets of code.
 - After introducing something *new*, ALWAYS validate and test using code/bash. Never assume.
+- If needing to search for a rust crate's API or documentation, use the `ripdoc` cli tool. See `ripdoc -h` to see help. It is very powerful at quickly skimming the public API + docstrings of any crate (incl. online). Remember to cd into a rust project dir and use `nix develop -c ...` so it can work properly.

@@ -22,3 +22,18 @@
 [submodule "helium-browser-flake"]
 	path = helium-browser-flake
 	url = https://github.com/Alb-O/helium-browser-flake
+[submodule "engrams"]
+	path = engrams
+	url = https://github.com/Alb-O/engrams
+[submodule "playwriter"]
+	path = playwriter
+	url = https://github.com/remorses/playwriter
+[submodule "tome"]
+	path = tome
+	url = https://github.com/Alb-O/tome
+[submodule "frz"]
+	path = frz
+	url = https://github.com/Alb-O/frz
+[submodule "bat"]
+	path = bat
+	url = https://github.com/sharkdp/bat
