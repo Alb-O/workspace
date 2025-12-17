@@ -22,18 +22,48 @@
 [submodule "helium-browser-flake"]
 	path = helium-browser-flake
 	url = https://github.com/Alb-O/helium-browser-flake
-[submodule "engrams"]
-	path = engrams
-	url = https://github.com/Alb-O/engrams
-[submodule "playwriter"]
-	path = playwriter
-	url = https://github.com/remorses/playwriter
-[submodule "tome"]
-	path = tome
-	url = https://github.com/Alb-O/tome
+[submodule "kakoune"]
+	path = kakoune
+	url = https://github.com/mawww/kakoune
+[submodule "tui-textarea"]
+	path = tui-textarea
+	url = https://github.com/rhysd/tui-textarea
+[submodule "linkme"]
+	path = linkme
+	url = https://github.com/dtolnay/linkme
+[submodule "inventory"]
+	path = inventory
+	url = https://github.com/dtolnay/inventory
+[submodule "extism"]
+	path = extism
+	url = https://github.com/extism/extism
+[submodule "extism-plugins"]
+	path = extism-plugins
+	url = https://github.com/extism/plugins
+[submodule "the-editor"]
+	path = the-editor
+	url = https://github.com/misterclayt0n/the-editor
+[submodule "helix"]
+	path = helix
+	url = https://github.com/helix-editor/helix
+[submodule "termina"]
+	path = termina
+	url = https://github.com/helix-editor/termina
+[submodule "LLM-API-Key-Proxy"]
+	path = LLM-API-Key-Proxy
+	url = https://github.com/Mirrowel/LLM-API-Key-Proxy
+[submodule "nushell"]
+	path = nushell
+	url = https://github.com/nushell/nushell
+[submodule "tui-term"]
+	path = tui-term
+	url = https://github.com/a-kenji/tui-term
 [submodule "frz"]
 	path = frz
 	url = https://github.com/Alb-O/frz
-[submodule "bat"]
-	path = bat
-	url = https://github.com/sharkdp/bat
+[submodule "PMSWebUI"]
+	path = PMSWebUI
+	url = http://192.168.88.162:30008/Albert_O/PMSWebUI
+[submodule "tome"]
+	path = tome
+	url = https://Alb-O/tome

@@ -3,4 +3,4 @@
 - Never add deprecation/legacy/backwards compatibility. Just make the new, breaking change up front.
 - AVOID trivial one-line comments that just re-explain snippets of code.
 - After introducing something *new*, ALWAYS validate and test using code/bash. Never assume.
-- If needing to search for a rust crate's API or documentation, use the `ripdoc` cli tool. See `ripdoc -h` to see help. It is very powerful at quickly skimming the public API + docstrings of any crate (incl. online). Remember to cd into a rust project dir and use `nix develop -c ...` so it can work properly.
+- If needing to search for a rust crate's API or documentation, use the `ripdoc` cli tool. See `ripdoc -h` to see help. It is very powerful at quickly skimming the public API + docstrings of any crate (incl. online).
